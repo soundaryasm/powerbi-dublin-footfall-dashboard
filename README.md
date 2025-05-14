@@ -15,6 +15,57 @@ This dashboard was built as part of a Business Intelligence & Visualization asse
 
 ## 📌 Key Features
 
+---
+
+## 📷 Preview
+
+<p align="center">
+  <img src="screenshots/overview.png" alt="Footfall Dashboard Preview" width="600"/>
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI (Desktop + Service)**
+- Power Query / DAX
+- CSV Data from Smart Dublin
+- Report bookmark & filtering logic
+
+---
+
+## 📚 Dataset Reference
+
+> [📂 Smart Dublin Footfall Data](https://data.smartdublin.ie/dataset/dublin-city-footfall)
+
+- Sensors located across central Dublin
+- Real-time people counter logs
+- Includes time, date, and location fields
+
+---
+
+## 🧠 Insights Summary
+
+- Footfall peaks between **12–6 PM**, especially on weekdays
+- Weekends show **lower volumes near office areas**
+- **Holidays reduce footfall** across most locations, except tourist zones
+
+---
+
+## 👤 Author
+
+**Soundarya Mattikatti**  
+MSc Business Analytics 
+[Portfolio](https://soundaryasm.github.io) | [LinkedIn](https://linkedin.com/in/soundaryasm)
+
+---
+
+## 📄 License
+
+This project is for educational purposes. Attribution required if reused.
+
+
+
 - 📆 **Time Series Analysis** – Footfall trends by hour, weekday, and season
 - 🗺️ **Sensor-Level Breakdown** – Activity by Dublin locations
 - 🏖️ **Holiday Effects** – Public holiday vs. regular day comparison
