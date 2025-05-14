@@ -13,18 +13,6 @@ This dashboard was built as part of a Business Intelligence & Visualization asse
 
 ---
 
-## 📌 Key Features
-
----
-
-## 📷 Preview
-
-<p align="center">
-  <img src="screenshots/overview.png" alt="Footfall Dashboard Preview" width="600"/>
-</p>
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Power BI (Desktop + Service)**
